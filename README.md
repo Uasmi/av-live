@@ -23,5 +23,6 @@ Examples of generated visuals through 3D Displacement:
 ![](https://githubpics.blob.core.windows.net/av-live/example1.png)
 ![](https://githubpics.blob.core.windows.net/av-live/example2.png)
 
-This is a current example of using pre-created data reacting to music:
-https://drive.google.com/open?id=14kAhf-ylBSOBVagbgrsiKrXkNqwzF5Uk
+## Performance 
+Acoustic Treatment Live: https://youtu.be/3Sfcw5JVPy8
+Sample video: 
